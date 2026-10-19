@@ -67,3 +67,4 @@ cybernex-academy/
     package.json
     .env.example
 ```
+# cybernex-academy
